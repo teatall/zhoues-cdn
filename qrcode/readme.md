@@ -1,1 +1,1 @@
-jquery-qrcode from https://github.com/jeromeetienne/jquery-qrcode
+qrcode-svg from https://github.com/papnkukn/qrcode-svg
