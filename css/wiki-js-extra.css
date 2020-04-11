@@ -54,3 +54,9 @@
     background-color: #d6d8d9;
     border-color: #c6c8ca;
 }
+
+@media only screen and (min-width: 960px) {
+  .v-footer .caption  {
+    margin-left: 256px;
+  }
+}
