@@ -4,7 +4,7 @@
     margin-top: 1rem;
     border: 1px solid transparent;
     border-radius: .5rem;
-    border-left-width: 6px;
+    border-left-width: 5px;
 }
 
 .v-application .v-content .alert-primary {
