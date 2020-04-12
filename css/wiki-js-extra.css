@@ -1,3 +1,12 @@
+.nav-header .v-toolbar__content .row {
+  -ms-flex-pack: justify!important;
+  justify-content: space-between!important
+}
+
+.nav-header .v-toolbar__content .row .flex.xs6 {
+  max-width: max-content
+}
+
 .v-application .v-content .alert {
     position: relative;
     padding: .75rem 1.25rem;
