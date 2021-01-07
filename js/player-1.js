@@ -1,6 +1,3 @@
-/*! ablejs - v0.2.0 - Tuesday, September 8th, 2020, 5:10:28 PM
- * http://www.ablesky.com
- * Copyright (c) 2020 frontend@ablesky.com; Licensed  */
 define(["module", "jquery", "common/base64", "lib/jquery/jquery.dialog"], function(e, t) {
   function i() {
     var e = currPlayCoursecontentId;
